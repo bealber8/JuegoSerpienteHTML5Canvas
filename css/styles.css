@@ -1,0 +1,19 @@
+canvas{
+  width:  600px;
+  height: 300px;
+  position: static;
+  top: auto;
+  left: 0 ;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  background: #000;
+  text-align: center;
+  color: inherit;
+}
+
+img{
+  margin-bottom: 10px;
+}
